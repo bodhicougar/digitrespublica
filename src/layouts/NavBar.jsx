@@ -6,7 +6,7 @@ import logo from "../../static/logo/header-logo.png";
 
 const StyledLink = styled(Link)`
   display: flex;
-  font-weight: 500;
+  font-weight: 550;
   align-items: center;
 `;
 
